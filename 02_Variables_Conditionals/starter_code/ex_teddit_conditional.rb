@@ -1,4 +1,4 @@
-# Teddit Contionals - Starter Code.
+letter# Teddit Contionals - Starter Code.
 
 # Let's add a new Teddit feature. Upvotes!
 # Complete the application below. 
